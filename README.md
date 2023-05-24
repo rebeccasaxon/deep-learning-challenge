@@ -21,8 +21,7 @@ Output Layer: sigmoid activation
 
 - Attempts to improve performance:
 
-1. Removed additional feature, that is the 'USE_CASE' column. The accuracy decreased to 63%.
-2. Adding Additional neurons to hidden layers and additional hidden layers are added. The accuracy decreased to 53%.
+1. Removed additional feature ('USE_CASE' column). The accuracy decreased to 63%.
+2. Adding neurons to hidden layers and added hidden layers. The accuracy decreased to 53%.
 3. Updateing activation function of output layer from "sigmoid" to "tanh." The accuracy decreased to 50%.
 
-## Summary
