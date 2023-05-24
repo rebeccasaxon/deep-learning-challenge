@@ -25,3 +25,5 @@ Output Layer: sigmoid activation
 2. Adding neurons to hidden layers and added hidden layers. The accuracy decreased to 53%.
 3. Updateing activation function of output layer from "sigmoid" to "tanh." The accuracy decreased to 50%.
 
+## Summary
+Overall the initial model had the best results in terms of accuracy. One issue that may have affected the accuracy of the models is overfitting. In order to mitigate this issue, I would conside using a random forest model.
